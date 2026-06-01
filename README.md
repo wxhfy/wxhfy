@@ -139,29 +139,11 @@ AI Werewolf              TopoBasin                  SUCF
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![wxhfy's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=wxhfy&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wxhfy&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
----
 
 
 
-## 📈 Contribution Graph
 
-<div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wxhfy&theme=redical&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
 
 ## 🌐 Connect With Me
 

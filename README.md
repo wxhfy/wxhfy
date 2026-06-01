@@ -151,15 +151,7 @@ AI Werewolf              TopoBasin                  SUCF
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=wxhfy&theme=algolia&no-frame=true&column=7&margin-w=15)
-
-</div>
-
----
 
 ## 📈 Contribution Graph
 

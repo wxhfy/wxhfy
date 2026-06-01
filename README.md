@@ -15,7 +15,7 @@
 - 🔬 **AI Researcher** — 专注于多智能体系统、肽段生成、跨模态融合
 - 🎮 **AI Werewolf Developer** — 构建了完整的 AI 狼人杀多智能体对战系统
 - 🤖 **OpenClaw Contributor** — 参与 AI Agent 自动化平台开发
-- 🧬 **Research Projects**: LaRC-Flow v2 (NeurIPS/ICML), TopoBasin, SUCF
+- 🧬 **Research Projects**: TopoBasin, SUCF
 - 🎓 **Student** — 热爱技术，追求卓越
 
 ---
@@ -134,8 +134,8 @@
 ```
 🤖 Multi-Agent Systems    🧬 Peptide Generation    🔗 Cross-Modal Fusion
     ↓                           ↓                           ↓
-AI Werewolf              LaRC-Flow v2                SUCF
-(Track A/B/C)            (NeurIPS/ICML)          (RGAT+Mamba)
+AI Werewolf              TopoBasin                  SUCF
+(Track A/B/C)            (拓扑持久性)            (RGAT+Mamba)
 ```
 
 </div>
@@ -166,7 +166,6 @@ AI Werewolf              LaRC-Flow v2                SUCF
 ## 🎯 Current Goals
 
 - [ ] 完成 AI Werewolf 项目答辩 (2026-06-11)
-- [ ] 投稿 NeurIPS/ICML (LaRC-Flow v2)
 - [ ] 优化 SUCF 模型性能
 - [ ] 扩展 OpenClaw 生态系统
 

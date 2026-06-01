@@ -87,7 +87,6 @@
 ### LLM & AI APIs
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-000000?style=for-the-badge&logo=deepseek&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=llamaindex&logoColor=white)
 
@@ -107,7 +106,7 @@
 - 🎭 **wolfcha人设系统**: MBTI、年龄、背景、说话风格、压力反应
 - 📈 **评测系统**: 10+ 评分模块，支持角色归一化和置信度感知
 
-**Tech Stack**: Python, FastAPI, Next.js, PostgreSQL, Redis, DeepSeek API, PyTorch
+**Tech Stack**: Python, FastAPI, Next.js, PostgreSQL, Redis, PyTorch
 
 ---
 

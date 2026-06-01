@@ -143,15 +143,9 @@ AI Werewolf              TopoBasin                  SUCF
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=wxhfy&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%">
+[![wxhfy's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=wxhfy&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wxhfy&theme=radical&hide_border=true" alt="GitHub Streak" width="48%">
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wxhfy&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%">
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wxhfy&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
@@ -161,7 +155,7 @@ AI Werewolf              TopoBasin                  SUCF
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=wxhfy&theme=radical&no-frame=true&column=7" alt="GitHub Trophies">
+[![trophy](https://github-profile-trophy.vercel.app/?username=wxhfy&theme=radical&no-frame=true&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -171,7 +165,7 @@ AI Werewolf              TopoBasin                  SUCF
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wxhfy&theme=redical&hide_border=true" alt="Activity Graph">
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wxhfy&theme=redical&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 </div>
 

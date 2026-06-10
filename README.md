@@ -16,7 +16,7 @@
 - 🎮 **AI Werewolf Developer** — 构建了完整的 AI 狼人杀多智能体对战系统
 - 🤖 **OpenClaw Contributor** — 参与 AI Agent 自动化平台开发
 - 🧬 **Research Projects**: TopoBasin, SUCF
-- 🎓 **Student** — 热爱技术，追求卓越
+- 🎓 **燕山大学** — 热爱技术，追求卓越
 
 ---
 
@@ -97,26 +97,42 @@
 ## 🎮 Featured Projects
 
 ### 🐺 [AI Werewolf](https://github.com/wxhfy/AIwerewolf)
-> AI 狼人杀多智能体对战系统 — 完整的 Track A/B/C 实现
+> 面向狼人杀博弈的多智能体认知决策与自进化系统
 
-**核心特性**:
-- 🏗️ **Track A**: 7-12人板子、完整流程、三类Agent (LLM/Heuristic/Human)
-- 📊 **Track B**: 多维评分系统 (ProcessScoreV3, HybridScorer, EloRating)
-- 🧬 **Track C**: 自进化Agent (策略知识库、进化循环、A/B验证)
-- 🎭 **wolfcha人设系统**: MBTI、年龄、背景、说话风格、压力反应
-- 📈 **评测系统**: 10+ 评分模块，支持角色归一化和置信度感知
+**核心架构**: Play → Evaluate → Evolve
 
-**Tech Stack**: Python, FastAPI, Next.js, PostgreSQL, Redis, PyTorch
+| 模块 | 能力 |
+|------|------|
+| **对局引擎** | 7-12人板子、昼夜流程、警徽/PK/遗言/猎人开枪/白狼王自爆 |
+| **Agent 系统** | 三层 Prompt (Persona+Role+Strategy)、Memory、SocialModel、工具调用 |
+| **信息隔离** | PlayerView 投影、狼队合法视图、严格公私分离 |
+| **Track B 评测** | 三级 LLM Judge (规则→轻量LLM→3人评委团)、多维评分、Leaderboard |
+| **Track C 进化** | 策略知识库、检索增强、A/B 因果验证、自动生命周期管理 |
+| **前端** | Next.js 暗色主题、实时观战、发言气泡、投票可视化、复盘报告 |
+
+**🔬 实验数据 (10 模型 × 火山引擎 Ark)**:
+
+| 模型 | 胜率 | 平均决策分 |
+|------|------|-----------|
+| Doubao-Seed-2.0-Pro | **61.5%** | 53.0 |
+| DeepSeek V4 Flash | 50.0% | 51.8 |
+| Doubao-Seed-2.0-Lite | 46.2% | 48.8 |
+| Kimi K2.5 | 30.8% | **63.6** |
+| GLM 4.7 | 30.8% | 46.4 |
+| DeepSeek V3.2 | 30.8% | 36.1 |
+| DeepSeek V4 Pro | 14.3% | 43.7 |
+
+> 基于 99 局真实 LLM 对局 + 60 局 Track C A/B 对照实验
+
+**Tech Stack**: Python, FastAPI, Next.js, PostgreSQL, WebSocket, GSAP, ECharts
 
 ---
 
 ### 🤖 [OpenClaw Auto Skills](https://github.com/wxhfy/openclaw-auto-skills)
 > 由自动进化系统生成的技能库
 
-**核心特性**:
 - ✅ 自动识别重复操作 (17次触发，100%成功率)
-- ✅ 自动提取最佳实践
-- ✅ 自动封装为可复用技能
+- ✅ 自动提取最佳实践并封装为可复用技能
 - ✅ 持续优化和进化
 
 **Tech Stack**: Python, OpenClaw
@@ -131,51 +147,24 @@
 🤖 Multi-Agent Systems    🧬 Peptide Generation    🔗 Cross-Modal Fusion
     ↓                           ↓                           ↓
 AI Werewolf              TopoBasin                  SUCF
-(Track A/B/C)            (拓扑持久性)            (RGAT+Mamba)
+(Play→Eval→Evolve)       (拓扑持久性)            (RGAT+Mamba)
 ```
 
 </div>
 
 ---
 
-
-
-
-
-
-
 ## 🌐 Connect With Me
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wxhfy)
 
 </div>
 
 ---
 
-## 💡 Fun Fact
-
 <div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=AI+Agent+Developer+%7C+Researcher+%7C+Builder;Building+intelligent+systems+that+can+play%2C+learn%2C+and+evolve)
-
-</div>
-
----
-
-## 🎯 Current Goals
-
-- [ ] 完成 AI Werewolf 项目答辩 (2026-06-11)
-- [ ] 优化 SUCF 模型性能
-- [ ] 扩展 OpenClaw 生态系统
-
----
-
-<div align="center">
-
-**⭐ If you like my work, give me a star! ⭐**
 
 ![GitHub followers](https://img.shields.io/github/followers/wxhfy?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/wxhfy/AIwerewolf?style=social)

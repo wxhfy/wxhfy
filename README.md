@@ -4,7 +4,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=wxhfy&color=blueviolet&style=flat-square)
 
-**Software Engineer | Machine Learning | Biomedical Computing | Developer Tools**
+**Backend Engineer | Agent Systems | AI Application Backends | Developer Workflows**
 
 </div>
 
@@ -12,61 +12,41 @@
 
 ## 🎯 About Me
 
-- 🔬 Working across machine learning, biomedical computing, and multimodal modeling
-- 🎮 Built an AI Werewolf multi-agent game and evaluation system
-- 🧬 Research interests: protein modeling, peptide generation, and cross-modal fusion
-- 🛠️ Interested in practical developer tools and reproducible engineering workflows
-- 🎓 Yanshan University
-
----
+- Building backend services and Agent systems with Python, FastAPI, and WebSocket
+- Interested in reliable Agent workflows, Multi-Agent coordination, RAG, and evaluation loops
+- Experienced with task routing, tool calling, structured outputs, observability, and Bad Case regression
+- Comfortable with Linux, Docker, PostgreSQL, Redis, Elasticsearch, Milvus, and Neo4j
+- M.S. student in Computer Science at Yanshan University, graduating in 2027
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages
+### Backend & Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-
-### AI / ML
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-### Web
-
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-333333?style=for-the-badge&logo=websocket&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Databases & Infrastructure
+### Agent & AI Applications
+
+![RAG](https://img.shields.io/badge/RAG-5C2D91?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+
+### Data, Infrastructure & Observability
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### Data & Bioinformatics
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![AlphaFold](https://img.shields.io/badge/AlphaFold-000000?style=for-the-badge&logo=deepmind&logoColor=white)
-![ESM](https://img.shields.io/badge/ESM-FF6F00?style=for-the-badge&logo=meta&logoColor=white)
-![PyMOL](https://img.shields.io/badge/PyMOL-000000?style=for-the-badge&logo=python&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 </div>
 
@@ -74,25 +54,29 @@
 
 ## 🚀 Selected Projects
 
-### 🐺 AI Werewolf
+### 🐺 [AI Werewolf](https://github.com/wxhfy/AIwerewolf)
 
-A completed multi-agent Werewolf game and evaluation system, covering game flow, role-based agents, information isolation, live observation, scoring, and experiment tooling.
+A multi-agent Werewolf game and evaluation system built around a Python backend. It combines a rules engine, role-based Cognitive Agents, strict information isolation, WebSocket interaction, post-game decision scoring, structured reviews, and strategy knowledge feedback.
 
-> The original repository has been removed from GitHub; this project remains part of my engineering portfolio.
+**Backend focus:** FastAPI, PostgreSQL, SQLAlchemy, WebSocket, state-machine driven game flow, `GameState → PlayerView` projections, decision audit trails, Track B evaluation, and Track C strategy retrieval.
 
-### 🧬 [SUCF_AMP](https://github.com/wxhfy/SUCF_AMP)
+### 🧰 [OpenClaw Auto Skills](https://github.com/wxhfy/openclaw-auto-skills)
 
-A structure-aware multimodal model for antimicrobial peptide activity prediction, combining protein sequence features, structural information, pLDDT-gated graph attention, and Mamba-based fusion.
+A reusable automation and workflow utility repository for developer tooling. It explores how repeated operations can be organized into portable skills and execution workflows for AI-assisted development.
 
-### 🧰 [ccg-workflow-test](https://github.com/wxhfy/ccg-workflow-test)
+**Backend focus:** Python automation, CLI workflows, reusable procedures, and developer productivity infrastructure.
 
-A developer workflow toolkit for coordinating Claude Code, Codex, and Gemini with routing, code review, and Git utilities.
+### 🔭 [OpenLLMetry](https://github.com/wxhfy/openllmetry)
+
+A fork of the OpenLLMetry project for OpenTelemetry-based observability in GenAI and LLM applications, including instrumentation for model and vector-database calls.
+
+**Agent focus:** tracing prompts, model calls, tools, retrieval steps, latency, and failures across AI application backends.
 
 ---
 
-## 🔬 Research Interests
+## 🔬 Focus Areas
 
-Machine learning · Multimodal representation learning · Protein modeling · Peptide generation · Developer tooling · Reproducible workflows
+Backend engineering · Agent systems · Multi-Agent orchestration · RAG / GraphRAG · LLM observability · Evaluation and feedback loops · Developer tooling · Reproducible workflows
 
 ---
 
